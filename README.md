@@ -1,4 +1,3 @@
-[GITHUB_PROFILE_README_DRAFT.md](https://github.com/user-attachments/files/34729310/GITHUB_PROFILE_README_DRAFT.md)
 # Hi, I'm Cauê Buzolin 👋
 
 **Analysis and Systems Development (ADS) student | Machine Learning & AI Engineering projects**
