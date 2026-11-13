@@ -4,7 +4,7 @@
 
 Construo projetos de machine learning com foco em **avaliação honesta** e em **engenharia ao redor do modelo**: dados reais, validação cronológica, APIs, testes automatizados e documentação das limitações. Estou buscando minha primeira oportunidade de estágio em IA / ML.
 
-[LinkedIn](https://www.linkedin.com/in/cau%C3%AA-buzolin-76a4283b3/) · [Portfólio](https://github.com/caueeeb/ai-engineering-portfolio) · [Hugging Face](https://huggingface.co/caueeb)
+[LinkedIn](https://www.linkedin.com/in/caue-buzolin/) · [Portfólio](https://github.com/caueeeb/ai-engineering-portfolio) · [Hugging Face](https://huggingface.co/caueeb)
 
 ## Projetos em destaque
 
